@@ -94,6 +94,8 @@ public class Main {
 		serialiazeObject(p1);
 		System.out.println(p1);
 		
+		// adding some comment
+		
 		Position p = deserializeObject();
 		System.out.println(p);
 		System.out.println(p.getId());
